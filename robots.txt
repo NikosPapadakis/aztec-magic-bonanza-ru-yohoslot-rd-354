@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aztec-magic-bonanza-ru-yohoslot-354.onrender.com/sitemap.xml
+Sitemap: https://srv-d864h3jrjlhs73agi01g.onrender.com/sitemap.xml
